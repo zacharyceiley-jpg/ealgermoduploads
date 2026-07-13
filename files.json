@@ -23,5 +23,10 @@
     "name": "Verity",
     "file": "Verity.mcaddon",
     "image": "Verity.png"
+  },
+  {
+    "name": "WorldEdit",
+    "file": "WorldEdit.mcaddon",
+    "image": "WorldEdit.png"
   }
 ]
